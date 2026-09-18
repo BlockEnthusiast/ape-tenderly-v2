@@ -26,8 +26,8 @@ test = ["pytest>=7", "pytest-xdist>=3"]
 lint = ["ruff>=0.5", "mypy>=1.10"]
 
 [project.urls]
-Homepage = "https://github.com/alchemix-finance/ape-tenderly-v2"
-Issues = "https://github.com/alchemix-finance/ape-tenderly-v2/issues"
+Homepage = "https://github.com/BlockEnthusiast/ape-tenderly-v2"
+Issues = "https://github.com/BlockEnthusiast/ape-tenderly-v2/issues"
 
 [project.entry-points.ape_cli_subcommands]
 ape_tenderly_v2 = "ape_tenderly_v2._cli:cli"
